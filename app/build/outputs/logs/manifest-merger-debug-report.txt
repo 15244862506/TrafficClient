@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:9:5-95
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.mad.trafficclient.GuideActivity
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:18:9-21:20
+	android:screenOrientation
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:19:13-50
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.mad.trafficclient.MainActivity
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:24:13-50
+	android:label
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:25:13-46
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.mad.trafficclient.login.LoginActivity
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:32:9-35:49
+	android:screenOrientation
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:34:13-50
+	android:label
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:35:13-46
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:33:13-48
+activity#com.mad.trafficclient.login.RegActivity
+ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:36:9-39:49
+	android:screenOrientation
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:38:13-50
+	android:label
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:39:13-46
+	android:name
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml:37:13-46
+uses-sdk
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android\a8\TrafficClient\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1b051b3d3528cdb98bf9f73e21301d25\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c95c077796923c137f50681bd8f72105\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bc9ebdd4e0578b56b7d587bd756be2a4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dfe9549b722f71853424b02927c893af\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\65b52265a2275cc10c37b01efc699a0f\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\123\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\cef14c4ee0b4659553722e2d2603ade0\AndroidManifest.xml:26:9-47

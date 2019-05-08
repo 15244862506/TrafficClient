@@ -1,0 +1,73 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\android\\a8\\TrafficClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\android\\a8\\TrafficClient\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "35,38,41,44",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1576,1659,1731,1875",
+                        "endLines": "37,40,43,46",
+                        "endColumns": "12,12,8,12",
+                        "endOffsets": "1654,1726,1870,2021"
+                    }
+                },
+                {
+                    "source": "F:\\android\\android\\a8\\TrafficClient\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,135,176,221,266,307,353,396,446",
+                        "endColumns": "39,39,40,44,44,40,45,42,49,44",
+                        "endOffsets": "90,130,171,216,261,302,348,391,441,486"
+                    }
+                },
+                {
+                    "source": "F:\\android\\android\\a8\\TrafficClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,19,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,623,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,53,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,672,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "605,652,696,739,783,831,878,920,960,1059,1109,1146,1186,1231,1279,1326,1386,1440,1497,1538",
+                        "endLines": "14,15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "endColumns": "46,43,42,43,47,46,41,39,57,49,36,39,44,47,46,59,53,56,40,37",
+                        "endOffsets": "647,691,734,778,826,873,915,955,1054,1104,1141,1181,1226,1274,1321,1381,1435,1492,1533,1571"
+                    }
+                },
+                {
+                    "source": "F:\\android\\android\\a8\\TrafficClient\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "491,549",
+                        "endColumns": "57,55",
+                        "endOffsets": "544,600"
+                    }
+                }
+            ]
+        }
+    ]
+}

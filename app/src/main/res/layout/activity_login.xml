@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+        android:background="@color/light_blue"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher" />
+        <View
+            android:layout_weight="1"
+            android:layout_width="84dp"
+            android:layout_height="0dp"
+            ></View>
+
+        <TextView
+            android:layout_gravity="center"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            android:text="登录"
+            android:layout_marginLeft="150dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/listbg"/>
+        <View
+            android:layout_weight="1"
+            android:layout_width="1dp"
+            android:layout_height="1dp"></View>
+        <Button
+            android:layout_gravity="center"
+            android:textColor="@color/listbg"
+            android:background="@color/light_blue"
+            android:id="@+id/bt_net_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/setting" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_alignParentTop="true"
+      android:layout_centerInParent="true"
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_marginTop="200dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:background="@drawable/ccc"
+                android:gravity="center"
+                android:id="@+id/et_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_name"
+                android:layout_weight="1"
+                android:singleLine="true">
+
+
+            </EditText>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <EditText
+                android:background="@drawable/ccc"
+                android:gravity="center"
+                android:id="@+id/et_user_pwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_pwd"
+                android:layout_weight="1"
+                android:password="true"
+                android:singleLine="true"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <CheckBox
+                android:id="@+id/autologCB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/auto_login" />
+
+            <CheckBox
+                android:id="@+id/jzpwdCB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/rememberpwd" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+            <Button
+                android:id="@+id/bt_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/login" />
+
+
+            <Button
+                android:id="@+id/bt_reg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/register" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
